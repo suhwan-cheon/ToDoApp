@@ -11,5 +11,5 @@
 ### 테스트 코드 프레임 워크 - JUnit4
 ### 프론트 엔드 프레임 워크 - Bootstrap
 
-작동 영상
-ezgif.com-gif-maker.gif![ezgif com-gif-maker](https://user-images.githubusercontent.com/52690419/125570322-c4c2bc2b-e04b-4f7c-86c1-ed67e7fae6d2.gif)
+### 작동 영상
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/52690419/125570322-c4c2bc2b-e04b-4f7c-86c1-ed67e7fae6d2.gif)
